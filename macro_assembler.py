@@ -1,5 +1,5 @@
 templ=0
-dp=open("myfile.txt",'w')
+dp=open("nihal.asm",'w')
 m_name=[]
 m_label=[]
 m_data={}
