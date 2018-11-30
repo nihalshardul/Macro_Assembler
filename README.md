@@ -9,7 +9,8 @@
 # To run that code type ->
 # python macro_assembler.py
 
- After running this code my file generate nihal.asm file which is nasm assembly language program...
+ After running this code my file generate nihal.asm file which is nasm assembly language program as...
+# nihal.asm
 
  which can be direclly run as nasm program.
  
